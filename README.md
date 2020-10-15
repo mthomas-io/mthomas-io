@@ -1,5 +1,5 @@
 ## Hi, I'm Thomas 👋
 
-A full-stack developer [@Ksyos](https://ksyos.nl).
+A developer [@GetintheLoop](https://getintheloop.ca).
 
 Find me on [LinkedIn](https://linkedin.com/in/thomasschoutsen).
